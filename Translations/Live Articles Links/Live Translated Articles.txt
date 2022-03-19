@@ -1,0 +1,11 @@
+Please refer to the section where it says, "تمت الترجمة بواسطة Tamer Saleh", which means, Translated By: Tamer Saleh
+
+1- https://www.freecodecamp.org/arabic/news/kyfy-ltrjaa-aan-git-add/
+2- https://www.freecodecamp.org/arabic/news/lqd-mdyt-3-shhr-fy-ltqdm-llwzyf-baad-maaskr-tdryb-fy-lbrmj-lyk-m-taalmth/
+3- https://www.freecodecamp.org/arabic/news/kyfy-twsyt-swr-bstkhdm-text-align-center/#:~:text=%D8%B9%D9%86%D8%B5%D8%B1%20%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9%20%D9%87%D9%88%20%D8%B9%D9%86%D8%B5%D8%B1,Parent%20element)%20%D8%A7%D9%84%D8%B0%D9%8A%20%D9%8A%D8%AD%D9%88%D9%8A%20%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9.
+4- https://www.freecodecamp.org/arabic/news/cmd-delete-folder-kyfy-hdhf-lmlft-wlmjldt-fy-lwyndwz/
+5- https://www.freecodecamp.org/arabic/news/media-query-css-drjt-ldq-lqysy-standard-resolutions-w-css-breakpoints-whjm-lhwtf-lmsthdf/#:~:text=%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A%20%D8%8C%20%D9%83%D8%A7%D9%86%20%D8%A5%D9%86%D8%B4%D8%A7%D8%A1%20%D9%85%D9%88%D9%82%D8%B9,%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D9%88%D8%A8%D9%8A%20(Responsive%20Web%20Design).
+6- https://www.freecodecamp.org/arabic/news/15-hfz-taaryfy-online-portfolio-lmtwry-lwyb-llhmk/
+7- https://www.freecodecamp.org/arabic/news/python-new-line-w-kyf-tstkhdm-print-bdwn-str-jdyd/
+8- https://www.freecodecamp.org/arabic/news/symlink-tutorial-in-linux-kyfy-nsh-w-hdhf-rbt-rmzy/#:~:text=%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B7%20%D8%A7%D9%84%D8%B1%D9%85%D8%B2%D9%8A%20(symlink)%20(%D9%88%D9%87%D9%88,(shortcuts)%20%D8%A7%D9%84%D9%85%D9%88%D8%AC%D9%88%D8%AF%D8%A9%20%D9%81%D9%8A%20Windows.
+9- https://www.freecodecamp.org/arabic/news/hl-mshkl-qym-bd-fy-lwyndwz-windows-10-start-menu/
