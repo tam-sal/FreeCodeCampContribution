@@ -4,7 +4,8 @@ This repository contains my contribution to FreeCodeCamp's Arabic Translation pr
 In this py snippet, I have participated with providing the code to track the project's progress in real time.  
 The code fetches the data from the project's online GSheet and orders each contributor's (translator) progress status,  
 There are 2 DataFrames as an output, the first is raw data, the second is final_df where each translator is captured once  
-in the dataframe and her/his assignments' count, completes tasks, and percentage of these completed tasks to the overall completion of the whole project.  
+in the dataframe and her/his assignments' count, completed tasks to assigned %, and percentage of these completed tasks  
+to the overall completion of the whole project.  
 A final Dictionary {overall} is thrown in order to giver some global progress status on the project as a whole.  
   
 ### 2- Translations:  
