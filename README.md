@@ -6,7 +6,7 @@ The code fetches the data from the project's online GSheet and orders each contr
 There are 2 DataFrames as an output, the first is raw data, the second is final_df where each translator is captured once  
 in the dataframe and her/his assignments' count, completes tasks, and percentage of these completed tasks to the overall completion of the whole project.  
 A final Dictionary {overall} is thrown in order to giver some global progress status on the project as a whole.  
-
+  
 ### 2- Translations:  
 This folder contains:  
 a- all .md files which are my translation from English to Arabic for all the articles I decided to translate.  
