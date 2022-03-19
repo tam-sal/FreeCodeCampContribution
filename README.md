@@ -8,6 +8,7 @@ in the dataframe and her/his assignments' count, completes tasks, and percentage
 A final Dictionary {overall} is thrown in order to giver some global progress status on the project as a whole.  
 
 ### 2- Translations:  
-This folder contains all .md files which are my translation from English to Arabic for all the articles I decided to translate.  
+This folder contains:  
+a- all .md files which are my translation from English to Arabic for all the articles I decided to translate.  
 b- The folder ***Live Articles Links*** contains a .txt file with all my translations live on the FreeCodeCamp's page,  
 For each article, please search for the phrase, *"تمت الترجمة بواسطة Tamer Saleh"*, which means, ***Translated By: Tamer Saleh***  
