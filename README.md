@@ -1,4 +1,6 @@
 # FreeCodeCampContribution  
+![image](https://user-images.githubusercontent.com/95254477/159311285-0c19c69e-f60a-441d-a970-de82cef57b08.png)  
+![image](https://user-images.githubusercontent.com/95254477/159311374-3b6be0a7-8265-494d-88f0-0eeb1e3ed95a.png)  
 This repository contains my contribution to FreeCodeCamp's Arabic Translation project.  
 ## 1- Project Metrics using Python:  
 ### Purpose: Standardization / Data Cleaning / Descriptive Data Analysis   
